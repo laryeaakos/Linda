@@ -1,0 +1,42 @@
+
+
+p{
+    font-size: 15px;
+    font-family:sans-serif;
+}
+body{
+    background-color: hsl(212, 45%, 89%);
+    
+}
+aside{
+    background-color: hsl(0, 0%, 100%);
+}
+
+    
+
+
+.image{
+    
+  margin: auto;
+    border-radius: 10%;
+    margin-left:  50px;
+    margin-top: 30px;
+
+    
+
+    
+
+}
+h1{
+    margin-left: 50px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+
+p{
+    margin-left: 50px;
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 400;
+}
